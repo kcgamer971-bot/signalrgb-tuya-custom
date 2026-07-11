@@ -1,0 +1,9 @@
+{
+  "id": "tuya_custom_lightbar",
+  "name": "Tuya Lightbar Custom",
+  "description": "Integration forcee Tuya",
+  "version": "1.0.0",
+  "author": "Custom",
+  "type": "lights",
+  "main": "device.js"
+}
